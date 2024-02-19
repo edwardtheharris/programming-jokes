@@ -7,3 +7,6 @@
 - [Insider](https://www.hongkiat.com/blog/programming-jokes/)
 - [web](https://github.com/wesbos/dad-jokes)
 - [java](https://github.com/wesbos/dad-jokes)
+- [python](https://funnpedia.com/funny-python-jokes/)
+- [sl](https://www.tecmint.com/funny-linux-commands/)
+- [bash](https://upjoke.com/bash-jokes)
